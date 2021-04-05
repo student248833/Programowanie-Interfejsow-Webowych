@@ -5,3 +5,6 @@
  - [Basic CSS](lab1/basic_css.html)
  - [CatPhotoApp](lab1/catphotoapp.html)
  - [Lorem ipsum](lab1/lorem_ipsum.html)
+
+## Lab2
+ - [JS/JQuery](lab2/index.html)
