@@ -8,3 +8,6 @@
 
 ## Lab2
  - [JS/JQuery](lab2/index.html)
+
+## Lab3
+ - [React](lab3/index.html)
