@@ -1,0 +1,92 @@
+.offer
+{
+	background-color: #777777;
+	padding: 0.5em;
+	margin: 0.5em;
+	width: 50em;
+	border-radius: 0.5em;
+}
+
+.name
+{
+	background-color: #888888;
+	font-size: 1.5em;
+}
+
+.text
+{
+	background-color: #999999;
+}
+
+.email
+{
+	background-color: #AAAAAA;
+	color: blue;
+}
+
+.tags
+{
+	background-color: #CCCCCC;
+}
+
+.search-div
+{
+	position: element(#offer-div);
+	transform: translateX(27em);
+	position: absolute;
+	top: 6em;
+	background-color: #AAAAAA;
+	border: 1px solid black;
+	border-radius: 0.5em;
+	padding: 1em;
+}
+
+.offer-add-div
+{
+	border: 1px solid black;
+	width: 25em;
+	border-radius: 1em;
+	padding: 1em;
+	background-color: #AAAAAA;
+}
+
+#search-box
+{
+	width: 100%;
+}
+
+label
+{
+	margin-right: 1em;
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
+}
+
+input[type=text]
+{
+	float: right;
+}
+
+h2
+{
+	text-align: center;
+}
+
+h1
+{
+	text-align: center;
+}
+
+#root
+{
+	width: 55em;
+	margin: auto;
+	height: 100%;
+	padding: 1em;
+	background-color: #DDDDDD;
+}
+
+body
+{
+	background-color: #CCCCCC;
+}
