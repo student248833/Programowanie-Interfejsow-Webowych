@@ -16,4 +16,4 @@
  - [Node.js](https://student248833.github.io/PIW-react/)
 
 ## Lab 5_6
- -[Node.js + Firebase](https://student248833.github.io/PIW-react-2/)
+ - [Node.js + Firebase](https://student248833.github.io/PIW-react-2/)
